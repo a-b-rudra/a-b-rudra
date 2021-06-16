@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a-b-rudra
+- 👋 Hi, I’m @a-b-rudra. I am a final year undergraduate student at IIT (ISM), Dhanbad and I am pursuing Bachelor of Technology in Mineral Engineering.
 - 👀 I’m interested in coding, web-development, and secrets of the Cosmos.
 - 🌱 I’m currently learning React that's why you see a bunch of basic React projects out there.
 - 💞️ I’m looking to collaborate on nothing right now but will update this space as and when required.
